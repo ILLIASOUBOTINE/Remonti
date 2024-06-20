@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177818289612",
+    "project_id": "remonti-90b3d",
+    "storage_bucket": "remonti-90b3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177818289612:android:13d6c1437558d0a9f94969",
+        "android_client_info": {
+          "package_name": "com.remonti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ7F0Q6okE46Qreo8v___qgU-7VtN90ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

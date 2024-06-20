@@ -8,13 +8,12 @@
 import React from 'react';
 
 import {SafeAreaView, Text, View} from 'react-native';
+import SignInScreen from './src/components/screens/SignInScreen/SignInScreen';
 
 function App(): React.JSX.Element {
   return (
-    <SafeAreaView>
-      <View>
-        <Text>Hello Remonti</Text>
-      </View>
+    <SafeAreaView style={{flex: 1}}>
+      <SignInScreen />
     </SafeAreaView>
   );
 }
